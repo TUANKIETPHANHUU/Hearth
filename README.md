@@ -9,9 +9,4 @@
  - Nguyễn Quốc Cường
  - Phan Hữu Tuấn Kiệt
  - Trần Văn Kiệt
-## Mục tiêu
-- Thu thập, xử lý và phân tích dữ liệu bệnh tim.
-- Xây dựng mô hình dự đoán nguy cơ mắc bệnh tim.
-- Đánh giá và phân tích các yếu tố nguy cơ.
-- Trình bày kết quả dưới dạng trực quan và báo cáo.
-
+## Tóm tắt
